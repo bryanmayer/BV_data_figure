@@ -1,0 +1,1333 @@
+"patient_id","study_day","bacteria","bacteria_full","count","log_count","detected"
+"A",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A",0,"liner","L. iners",1e+06,6,TRUE
+"A",1,"liner","L. iners",392000,5.59329,TRUE
+"A",2,"liner","L. iners",2.68e+06,6.42813,TRUE
+"A",3,"liner","L. iners",7.76e+07,7.88986,TRUE
+"A",4,"liner","L. iners",1.89e+08,8.27646,TRUE
+"A",5,"liner","L. iners",4.25e+08,8.62839,TRUE
+"A",6,"liner","L. iners",5.95e+07,7.77452,TRUE
+"A",0,"ljen","L. jensenii",375,2.57403,FALSE
+"A",1,"ljen","L. jensenii",375,2.57403,FALSE
+"A",2,"ljen","L. jensenii",375,2.57403,FALSE
+"A",3,"ljen","L. jensenii",375,2.57403,FALSE
+"A",4,"ljen","L. jensenii",375,2.57403,FALSE
+"A",5,"ljen","L. jensenii",375,2.57403,FALSE
+"A",6,"ljen","L. jensenii",375,2.57403,FALSE
+"A",0,"gvag","G. vaginalis",7.08e+08,8.85003,TRUE
+"A",1,"gvag","G. vaginalis",1.71e+07,7.233,TRUE
+"A",2,"gvag","G. vaginalis",1.96e+07,7.29226,TRUE
+"A",3,"gvag","G. vaginalis",9.47e+06,6.97635,TRUE
+"A",4,"gvag","G. vaginalis",63000,4.79934,TRUE
+"A",5,"gvag","G. vaginalis",29200,4.46538,TRUE
+"A",6,"gvag","G. vaginalis",755,2.87795,TRUE
+"A",0,"bvab1","BVAB1",750,2.87506,FALSE
+"A",1,"bvab1","BVAB1",750,2.87506,FALSE
+"A",2,"bvab1","BVAB1",750,2.87506,FALSE
+"A",3,"bvab1","BVAB1",750,2.87506,FALSE
+"A",4,"bvab1","BVAB1",750,2.87506,FALSE
+"A",5,"bvab1","BVAB1",750,2.87506,FALSE
+"A",6,"bvab1","BVAB1",750,2.87506,FALSE
+"A",0,"bvab2","BVAB2",2.47e+07,7.3927,TRUE
+"A",1,"bvab2","BVAB2",2.3e+06,6.36173,TRUE
+"A",2,"bvab2","BVAB2",829000,5.91855,TRUE
+"A",3,"bvab2","BVAB2",750,2.87506,FALSE
+"A",4,"bvab2","BVAB2",750,2.87506,FALSE
+"A",5,"bvab2","BVAB2",750,2.87506,FALSE
+"A",6,"bvab2","BVAB2",750,2.87506,FALSE
+"A",0,"bvab3","BVAB3",750,2.87506,FALSE
+"A",1,"bvab3","BVAB3",750,2.87506,FALSE
+"A",2,"bvab3","BVAB3",750,2.87506,FALSE
+"A",3,"bvab3","BVAB3",750,2.87506,FALSE
+"A",4,"bvab3","BVAB3",750,2.87506,FALSE
+"A",5,"bvab3","BVAB3",750,2.87506,FALSE
+"A",6,"bvab3","BVAB3",750,2.87506,FALSE
+"A",0,"atop","A. vaginae",3.98e+08,8.59988,TRUE
+"A",1,"atop","A. vaginae",670000,5.82607,TRUE
+"A",2,"atop","A. vaginae",315000,5.49831,TRUE
+"A",3,"atop","A. vaginae",4650,3.66745,TRUE
+"A",4,"atop","A. vaginae",375,2.57403,FALSE
+"A",5,"atop","A. vaginae",375,2.57403,FALSE
+"A",6,"atop","A. vaginae",375,2.57403,FALSE
+"A",0,"mc","Mobiluncus",375,2.57403,FALSE
+"A",1,"mc","Mobiluncus",375,2.57403,FALSE
+"A",2,"mc","Mobiluncus",2060,3.31387,TRUE
+"A",3,"mc","Mobiluncus",375,2.57403,FALSE
+"A",4,"mc","Mobiluncus",375,2.57403,FALSE
+"A",5,"mc","Mobiluncus",375,2.57403,FALSE
+"A",6,"mc","Mobiluncus",375,2.57403,FALSE
+"A",0,"ls","Leptotrichia/Sneathia",1.57e+09,9.1959,TRUE
+"A",1,"ls","Leptotrichia/Sneathia",4.13e+07,7.61595,TRUE
+"A",2,"ls","Leptotrichia/Sneathia",7.87e+07,7.89597,TRUE
+"A",3,"ls","Leptotrichia/Sneathia",30400,4.48287,TRUE
+"A",4,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"A",5,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"A",6,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"A",0,"mega","Megasphaera",9.12e+08,8.95999,TRUE
+"A",1,"mega","Megasphaera",4.63e+06,6.66558,TRUE
+"A",2,"mega","Megasphaera",386000,5.58659,TRUE
+"A",3,"mega","Megasphaera",750,2.87506,FALSE
+"A",4,"mega","Megasphaera",750,2.87506,FALSE
+"A",5,"mega","Megasphaera",750,2.87506,FALSE
+"A",6,"mega","Megasphaera",750,2.87506,FALSE
+"A",0,"total","Total Bacteria",3.6137e+09,9.55795,TRUE
+"A",1,"total","Total Bacteria",6.63946e+07,7.82213,TRUE
+"A",2,"total","Total Bacteria",1.02514e+08,8.01078,TRUE
+"A",3,"total","Total Bacteria",8.71092e+07,7.94006,TRUE
+"A",4,"total","Total Bacteria",1.89068e+08,8.27662,TRUE
+"A",5,"total","Total Bacteria",4.25034e+08,8.62842,TRUE
+"A",6,"total","Total Bacteria",5.9506e+07,7.77456,TRUE
+"A2",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A2",0,"liner","L. iners",72800,4.86213,TRUE
+"A2",1,"liner","L. iners",24100,4.38202,TRUE
+"A2",2,"liner","L. iners",306000,5.48572,TRUE
+"A2",3,"liner","L. iners",1.45e+07,7.16137,TRUE
+"A2",4,"liner","L. iners",2.01e+08,8.3032,TRUE
+"A2",5,"liner","L. iners",5.61e+07,7.74896,TRUE
+"A2",6,"liner","L. iners",1.8e+08,8.25527,TRUE
+"A2",0,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",1,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",2,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",3,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",4,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",5,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",6,"ljen","L. jensenii",375,2.57403,FALSE
+"A2",0,"gvag","G. vaginalis",6.36e+07,7.80346,TRUE
+"A2",1,"gvag","G. vaginalis",2.01e+07,7.3032,TRUE
+"A2",2,"gvag","G. vaginalis",8.79e+06,6.94399,TRUE
+"A2",3,"gvag","G. vaginalis",3.12e+07,7.49415,TRUE
+"A2",4,"gvag","G. vaginalis",9.68e+06,6.98588,TRUE
+"A2",5,"gvag","G. vaginalis",8010,3.90363,TRUE
+"A2",6,"gvag","G. vaginalis",1.79e+06,6.25285,TRUE
+"A2",0,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",1,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",2,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",3,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",4,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",5,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",6,"bvab1","BVAB1",750,2.87506,FALSE
+"A2",0,"bvab2","BVAB2",1.11e+07,7.04532,TRUE
+"A2",1,"bvab2","BVAB2",3.35e+06,6.52504,TRUE
+"A2",2,"bvab2","BVAB2",58100,4.76418,TRUE
+"A2",3,"bvab2","BVAB2",14800,4.17026,TRUE
+"A2",4,"bvab2","BVAB2",4377,3.64118,TRUE
+"A2",5,"bvab2","BVAB2",375,2.57403,FALSE
+"A2",6,"bvab2","BVAB2",375,2.57403,FALSE
+"A2",0,"bvab3","BVAB3",375,2.57403,FALSE
+"A2",1,"bvab3","BVAB3",1500,3.17609,FALSE
+"A2",2,"bvab3","BVAB3",1500,3.17609,FALSE
+"A2",3,"bvab3","BVAB3",1500,3.17609,FALSE
+"A2",4,"bvab3","BVAB3",1500,3.17609,FALSE
+"A2",5,"bvab3","BVAB3",1500,3.17609,FALSE
+"A2",6,"bvab3","BVAB3",1500,3.17609,FALSE
+"A2",0,"atop","A. vaginae",6.11e+06,6.78604,TRUE
+"A2",1,"atop","A. vaginae",318000,5.50243,TRUE
+"A2",2,"atop","A. vaginae",46300,4.66558,TRUE
+"A2",3,"atop","A. vaginae",9140,3.96095,TRUE
+"A2",4,"atop","A. vaginae",3678,3.56561,TRUE
+"A2",5,"atop","A. vaginae",375,2.57403,FALSE
+"A2",6,"atop","A. vaginae",375,2.57403,FALSE
+"A2",0,"mc","Mobiluncus",1.35e+07,7.13033,TRUE
+"A2",1,"mc","Mobiluncus",1.73e+06,6.23805,TRUE
+"A2",2,"mc","Mobiluncus",531000,5.72509,TRUE
+"A2",3,"mc","Mobiluncus",92000,4.96379,TRUE
+"A2",4,"mc","Mobiluncus",3960,3.5977,TRUE
+"A2",5,"mc","Mobiluncus",375,2.57403,FALSE
+"A2",6,"mc","Mobiluncus",375,2.57403,FALSE
+"A2",0,"ls","Leptotrichia/Sneathia",3.63e+07,7.55991,TRUE
+"A2",1,"ls","Leptotrichia/Sneathia",1.27e+07,7.1038,TRUE
+"A2",2,"ls","Leptotrichia/Sneathia",1.51e+06,6.17898,TRUE
+"A2",3,"ls","Leptotrichia/Sneathia",78500,4.89487,TRUE
+"A2",4,"ls","Leptotrichia/Sneathia",10400,4.01703,TRUE
+"A2",5,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"A2",6,"ls","Leptotrichia/Sneathia",4102.5,3.61305,TRUE
+"A2",0,"mega","Megasphaera",1.3e+07,7.11394,TRUE
+"A2",1,"mega","Megasphaera",222000,5.34635,TRUE
+"A2",2,"mega","Megasphaera",55100,4.74115,TRUE
+"A2",3,"mega","Megasphaera",14200,4.15229,TRUE
+"A2",4,"mega","Megasphaera",2360,3.37291,TRUE
+"A2",5,"mega","Megasphaera",375,2.57403,FALSE
+"A2",6,"mega","Megasphaera",375,2.57403,FALSE
+"A2",0,"total","Total Bacteria",1.43685e+08,8.15741,TRUE
+"A2",1,"total","Total Bacteria",3.84471e+07,7.58486,TRUE
+"A2",2,"total","Total Bacteria",1.12995e+07,7.05306,TRUE
+"A2",3,"total","Total Bacteria",4.59116e+07,7.66192,TRUE
+"A2",4,"total","Total Bacteria",2.10708e+08,8.32368,TRUE
+"A2",5,"total","Total Bacteria",5.61129e+07,7.74906,TRUE
+"A2",6,"total","Total Bacteria",1.81799e+08,8.25959,TRUE
+"A3",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"A3",0,"liner","L. iners",2.9e+07,7.4624,TRUE
+"A3",1,"liner","L. iners",167000,5.22272,TRUE
+"A3",2,"liner","L. iners",2.115e+08,8.32531,TRUE
+"A3",3,"liner","L. iners",5.63e+07,7.75051,TRUE
+"A3",4,"liner","L. iners",1.95e+08,8.29003,TRUE
+"A3",5,"liner","L. iners",9.54e+08,8.97955,TRUE
+"A3",6,"liner","L. iners",4.94e+08,8.69373,TRUE
+"A3",0,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",1,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",2,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",3,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",4,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",5,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",6,"ljen","L. jensenii",375,2.57403,FALSE
+"A3",0,"gvag","G. vaginalis",4.72e+07,7.67394,TRUE
+"A3",1,"gvag","G. vaginalis",8.6e+06,6.9345,TRUE
+"A3",2,"gvag","G. vaginalis",8.37e+07,7.92273,TRUE
+"A3",3,"gvag","G. vaginalis",1.05e+08,8.02119,TRUE
+"A3",4,"gvag","G. vaginalis",7.46e+06,6.87274,TRUE
+"A3",5,"gvag","G. vaginalis",6.04e+06,6.78104,TRUE
+"A3",6,"gvag","G. vaginalis",3.11e+06,6.49276,TRUE
+"A3",0,"bvab1","BVAB1",750,2.87506,FALSE
+"A3",1,"bvab1","BVAB1",375,2.57403,FALSE
+"A3",2,"bvab1","BVAB1",375,2.57403,FALSE
+"A3",3,"bvab1","BVAB1",375,2.57403,FALSE
+"A3",4,"bvab1","BVAB1",375,2.57403,FALSE
+"A3",5,"bvab1","BVAB1",375,2.57403,FALSE
+"A3",6,"bvab1","BVAB1",375,2.57403,FALSE
+"A3",0,"bvab2","BVAB2",247000,5.3927,TRUE
+"A3",1,"bvab2","BVAB2",4610,3.6637,TRUE
+"A3",2,"bvab2","BVAB2",375,2.57403,FALSE
+"A3",3,"bvab2","BVAB2",375,2.57403,FALSE
+"A3",4,"bvab2","BVAB2",375,2.57403,FALSE
+"A3",5,"bvab2","BVAB2",1170,3.06819,TRUE
+"A3",6,"bvab2","BVAB2",375,2.57403,FALSE
+"A3",0,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",1,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",2,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",3,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",4,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",5,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",6,"bvab3","BVAB3",1500,3.17609,FALSE
+"A3",0,"atop","A. vaginae",1.17e+07,7.06819,TRUE
+"A3",1,"atop","A. vaginae",526000,5.72099,TRUE
+"A3",2,"atop","A. vaginae",758,2.87967,TRUE
+"A3",3,"atop","A. vaginae",6690,3.82543,TRUE
+"A3",4,"atop","A. vaginae",375,2.57403,FALSE
+"A3",5,"atop","A. vaginae",4090,3.61172,TRUE
+"A3",6,"atop","A. vaginae",375,2.57403,FALSE
+"A3",0,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",1,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",2,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",3,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",4,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",5,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",6,"mc","Mobiluncus",375,2.57403,FALSE
+"A3",0,"ls","Leptotrichia/Sneathia",1.19e+07,7.07555,TRUE
+"A3",1,"ls","Leptotrichia/Sneathia",112000,5.04922,TRUE
+"A3",2,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"A3",3,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"A3",4,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"A3",5,"ls","Leptotrichia/Sneathia",934.5,2.97058,TRUE
+"A3",6,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"A3",0,"mega","Megasphaera",4.78e+07,7.67943,TRUE
+"A3",1,"mega","Megasphaera",96200,4.98318,TRUE
+"A3",2,"mega","Megasphaera",750,2.87506,FALSE
+"A3",3,"mega","Megasphaera",750,2.87506,FALSE
+"A3",4,"mega","Megasphaera",750,2.87506,FALSE
+"A3",5,"mega","Megasphaera",750,2.87506,FALSE
+"A3",6,"mega","Megasphaera",750,2.87506,FALSE
+"A3",0,"total","Total Bacteria",1.4785e+08,8.16982,TRUE
+"A3",1,"total","Total Bacteria",9.50881e+06,6.97813,TRUE
+"A3",2,"total","Total Bacteria",2.95205e+08,8.47012,TRUE
+"A3",3,"total","Total Bacteria",1.61311e+08,8.20766,TRUE
+"A3",4,"total","Total Bacteria",2.02465e+08,8.30635,TRUE
+"A3",5,"total","Total Bacteria",9.6005e+08,8.98229,TRUE
+"A3",6,"total","Total Bacteria",4.97115e+08,8.69646,TRUE
+"B",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B",1,"lcrisp","L. crispatus",5.93e+06,6.77305,TRUE
+"B",2,"lcrisp","L. crispatus",1.67e+06,6.22272,TRUE
+"B",3,"lcrisp","L. crispatus",826000,5.91698,TRUE
+"B",4,"lcrisp","L. crispatus",3.68e+06,6.56585,TRUE
+"B",5,"lcrisp","L. crispatus",1.03e+06,6.01284,TRUE
+"B",6,"lcrisp","L. crispatus",3.1e+06,6.49136,TRUE
+"B",0,"liner","L. iners",4.79e+07,7.68034,TRUE
+"B",1,"liner","L. iners",9.19e+06,6.96332,TRUE
+"B",2,"liner","L. iners",1.26e+07,7.10037,TRUE
+"B",3,"liner","L. iners",3.47e+07,7.54033,TRUE
+"B",4,"liner","L. iners",7.52e+07,7.87622,TRUE
+"B",5,"liner","L. iners",4.28e+06,6.63144,TRUE
+"B",6,"liner","L. iners",7.22e+07,7.85854,TRUE
+"B",0,"ljen","L. jensenii",375,2.57403,FALSE
+"B",1,"ljen","L. jensenii",6.09712e+06,6.78513,TRUE
+"B",2,"ljen","L. jensenii",730800,5.8638,TRUE
+"B",3,"ljen","L. jensenii",170400,5.23147,TRUE
+"B",4,"ljen","L. jensenii",718875,5.85665,TRUE
+"B",5,"ljen","L. jensenii",588900,5.77004,TRUE
+"B",6,"ljen","L. jensenii",375,2.57403,FALSE
+"B",0,"gvag","G. vaginalis",2.00726e+08,8.3026,TRUE
+"B",1,"gvag","G. vaginalis",375,2.57403,FALSE
+"B",2,"gvag","G. vaginalis",375,2.57403,FALSE
+"B",3,"gvag","G. vaginalis",475.5,2.67715,TRUE
+"B",4,"gvag","G. vaginalis",19000,4.27875,TRUE
+"B",5,"gvag","G. vaginalis",375,2.57403,FALSE
+"B",6,"gvag","G. vaginalis",33900,4.5302,TRUE
+"B",0,"bvab1","BVAB1",375,2.57403,FALSE
+"B",1,"bvab1","BVAB1",375,2.57403,FALSE
+"B",2,"bvab1","BVAB1",375,2.57403,FALSE
+"B",3,"bvab1","BVAB1",375,2.57403,FALSE
+"B",4,"bvab1","BVAB1",375,2.57403,FALSE
+"B",5,"bvab1","BVAB1",375,2.57403,FALSE
+"B",6,"bvab1","BVAB1",375,2.57403,FALSE
+"B",0,"bvab2","BVAB2",4.04e+07,7.60638,TRUE
+"B",1,"bvab2","BVAB2",375,2.57403,FALSE
+"B",2,"bvab2","BVAB2",375,2.57403,FALSE
+"B",3,"bvab2","BVAB2",375,2.57403,FALSE
+"B",4,"bvab2","BVAB2",375,2.57403,FALSE
+"B",5,"bvab2","BVAB2",375,2.57403,FALSE
+"B",6,"bvab2","BVAB2",375,2.57403,FALSE
+"B",0,"bvab3","BVAB3",2.63e+06,6.41996,TRUE
+"B",1,"bvab3","BVAB3",750,2.87506,FALSE
+"B",2,"bvab3","BVAB3",750,2.87506,FALSE
+"B",3,"bvab3","BVAB3",750,2.87506,FALSE
+"B",4,"bvab3","BVAB3",750,2.87506,FALSE
+"B",5,"bvab3","BVAB3",750,2.87506,FALSE
+"B",6,"bvab3","BVAB3",750,2.87506,FALSE
+"B",0,"atop","A. vaginae",2.9e+08,8.4624,TRUE
+"B",1,"atop","A. vaginae",375,2.57403,FALSE
+"B",2,"atop","A. vaginae",375,2.57403,FALSE
+"B",3,"atop","A. vaginae",375,2.57403,FALSE
+"B",4,"atop","A. vaginae",375,2.57403,FALSE
+"B",5,"atop","A. vaginae",375,2.57403,FALSE
+"B",6,"atop","A. vaginae",375,2.57403,FALSE
+"B",0,"mc","Mobiluncus",1.68e+06,6.22531,TRUE
+"B",1,"mc","Mobiluncus",375,2.57403,FALSE
+"B",2,"mc","Mobiluncus",375,2.57403,FALSE
+"B",3,"mc","Mobiluncus",375,2.57403,FALSE
+"B",4,"mc","Mobiluncus",375,2.57403,FALSE
+"B",5,"mc","Mobiluncus",375,2.57403,FALSE
+"B",6,"mc","Mobiluncus",375,2.57403,FALSE
+"B",0,"ls","Leptotrichia/Sneathia",1.35e+09,9.13033,TRUE
+"B",1,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"B",2,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"B",3,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"B",4,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"B",5,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"B",6,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"B",0,"mega","Megasphaera",1.84323e+08,8.26558,TRUE
+"B",1,"mega","Megasphaera",750,2.87506,FALSE
+"B",2,"mega","Megasphaera",750,2.87506,FALSE
+"B",3,"mega","Megasphaera",750,2.87506,FALSE
+"B",4,"mega","Megasphaera",750,2.87506,FALSE
+"B",5,"mega","Megasphaera",750,2.87506,FALSE
+"B",6,"mega","Megasphaera",750,2.87506,FALSE
+"B",0,"total","Total Bacteria",2.11766e+09,9.32586,TRUE
+"B",1,"total","Total Bacteria",2.12212e+07,7.32677,TRUE
+"B",2,"total","Total Bacteria",1.50049e+07,7.17623,TRUE
+"B",3,"total","Total Bacteria",3.57006e+07,7.55268,TRUE
+"B",4,"total","Total Bacteria",7.96216e+07,7.90103,TRUE
+"B",5,"total","Total Bacteria",5.90302e+06,6.77107,TRUE
+"B",6,"total","Total Bacteria",7.5338e+07,7.87701,TRUE
+"B2",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"B2",0,"liner","L. iners",1.31e+08,8.11727,TRUE
+"B2",1,"liner","L. iners",1.43e+07,7.15534,TRUE
+"B2",2,"liner","L. iners",5.46e+07,7.73719,TRUE
+"B2",3,"liner","L. iners",3.69e+08,8.56703,TRUE
+"B2",4,"liner","L. iners",2.91e+08,8.46389,TRUE
+"B2",5,"liner","L. iners",7.11e+07,7.85187,TRUE
+"B2",6,"liner","L. iners",3.06e+08,8.48572,TRUE
+"B2",0,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",1,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",2,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",3,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",4,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",5,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",6,"ljen","L. jensenii",375,2.57403,FALSE
+"B2",0,"gvag","G. vaginalis",5.45e+07,7.7364,TRUE
+"B2",1,"gvag","G. vaginalis",24400,4.38739,TRUE
+"B2",2,"gvag","G. vaginalis",77100,4.88705,TRUE
+"B2",3,"gvag","G. vaginalis",866,2.93752,TRUE
+"B2",4,"gvag","G. vaginalis",1460,3.16435,TRUE
+"B2",5,"gvag","G. vaginalis",4.83e+06,6.68395,TRUE
+"B2",6,"gvag","G. vaginalis",5.79e+07,7.76268,TRUE
+"B2",0,"bvab1","BVAB1",1.7e+08,8.23045,TRUE
+"B2",1,"bvab1","BVAB1",43500,4.63849,TRUE
+"B2",2,"bvab1","BVAB1",155000,5.19033,TRUE
+"B2",3,"bvab1","BVAB1",750,2.87506,FALSE
+"B2",4,"bvab1","BVAB1",750,2.87506,FALSE
+"B2",5,"bvab1","BVAB1",750,2.87506,FALSE
+"B2",6,"bvab1","BVAB1",750,2.87506,FALSE
+"B2",0,"bvab2","BVAB2",5.96e+06,6.77525,TRUE
+"B2",1,"bvab2","BVAB2",375,2.57403,FALSE
+"B2",2,"bvab2","BVAB2",375,2.57403,FALSE
+"B2",3,"bvab2","BVAB2",375,2.57403,FALSE
+"B2",4,"bvab2","BVAB2",375,2.57403,FALSE
+"B2",5,"bvab2","BVAB2",375,2.57403,FALSE
+"B2",6,"bvab2","BVAB2",375,2.57403,FALSE
+"B2",0,"bvab3","BVAB3",69700,4.84323,TRUE
+"B2",1,"bvab3","BVAB3",1500,3.17609,FALSE
+"B2",2,"bvab3","BVAB3",1500,3.17609,FALSE
+"B2",3,"bvab3","BVAB3",1500,3.17609,FALSE
+"B2",4,"bvab3","BVAB3",1500,3.17609,FALSE
+"B2",5,"bvab3","BVAB3",1500,3.17609,FALSE
+"B2",6,"bvab3","BVAB3",1500,3.17609,FALSE
+"B2",0,"atop","A. vaginae",3.17e+07,7.50106,TRUE
+"B2",1,"atop","A. vaginae",375,2.57403,FALSE
+"B2",2,"atop","A. vaginae",375,2.57403,FALSE
+"B2",3,"atop","A. vaginae",375,2.57403,FALSE
+"B2",4,"atop","A. vaginae",375,2.57403,FALSE
+"B2",5,"atop","A. vaginae",375,2.57403,FALSE
+"B2",6,"atop","A. vaginae",375,2.57403,FALSE
+"B2",0,"mc","Mobiluncus",1710,3.233,TRUE
+"B2",1,"mc","Mobiluncus",375,2.57403,FALSE
+"B2",2,"mc","Mobiluncus",796.5,2.90119,TRUE
+"B2",3,"mc","Mobiluncus",375,2.57403,FALSE
+"B2",4,"mc","Mobiluncus",375,2.57403,FALSE
+"B2",5,"mc","Mobiluncus",375,2.57403,FALSE
+"B2",6,"mc","Mobiluncus",375,2.57403,FALSE
+"B2",0,"ls","Leptotrichia/Sneathia",4.72e+07,7.67394,TRUE
+"B2",1,"ls","Leptotrichia/Sneathia",622.5,2.79414,TRUE
+"B2",2,"ls","Leptotrichia/Sneathia",1834.5,3.26352,TRUE
+"B2",3,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"B2",4,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"B2",5,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"B2",6,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"B2",0,"mega","Megasphaera",1.14e+07,7.0569,TRUE
+"B2",1,"mega","Megasphaera",1662,3.22063,TRUE
+"B2",2,"mega","Megasphaera",4654.5,3.66787,TRUE
+"B2",3,"mega","Megasphaera",375,2.57403,FALSE
+"B2",4,"mega","Megasphaera",375,2.57403,FALSE
+"B2",5,"mega","Megasphaera",375,2.57403,FALSE
+"B2",6,"mega","Megasphaera",375,2.57403,FALSE
+"B2",0,"total","Total Bacteria",4.51832e+08,8.65498,TRUE
+"B2",1,"total","Total Bacteria",1.43736e+07,7.15756,TRUE
+"B2",2,"total","Total Bacteria",5.48424e+07,7.73912,TRUE
+"B2",3,"total","Total Bacteria",3.69006e+08,8.56703,TRUE
+"B2",4,"total","Total Bacteria",2.91006e+08,8.4639,TRUE
+"B2",5,"total","Total Bacteria",7.59349e+07,7.88044,TRUE
+"B2",6,"total","Total Bacteria",3.63905e+08,8.56099,TRUE
+"C",0,"lcrisp","L. crispatus",405000,5.60746,TRUE
+"C",1,"lcrisp","L. crispatus",1530,3.18469,TRUE
+"C",2,"lcrisp","L. crispatus",4980,3.69723,TRUE
+"C",3,"lcrisp","L. crispatus",3987,3.60065,TRUE
+"C",4,"lcrisp","L. crispatus",982.5,2.99233,TRUE
+"C",5,"lcrisp","L. crispatus",246000,5.39094,TRUE
+"C",6,"lcrisp","L. crispatus",20600,4.31387,TRUE
+"C",0,"liner","L. iners",5.48e+07,7.73878,TRUE
+"C",1,"liner","L. iners",3.1e+07,7.49136,TRUE
+"C",2,"liner","L. iners",645000,5.80956,TRUE
+"C",3,"liner","L. iners",593000,5.77305,TRUE
+"C",4,"liner","L. iners",3.53e+07,7.54777,TRUE
+"C",5,"liner","L. iners",4.29e+07,7.63246,TRUE
+"C",6,"liner","L. iners",3.55e+06,6.55023,TRUE
+"C",0,"ljen","L. jensenii",375,2.57403,FALSE
+"C",1,"ljen","L. jensenii",375,2.57403,FALSE
+"C",2,"ljen","L. jensenii",375,2.57403,FALSE
+"C",3,"ljen","L. jensenii",375,2.57403,FALSE
+"C",4,"ljen","L. jensenii",19350,4.28668,TRUE
+"C",5,"ljen","L. jensenii",67350,4.82834,TRUE
+"C",6,"ljen","L. jensenii",72375,4.85959,TRUE
+"C",0,"gvag","G. vaginalis",1.09e+07,7.03743,TRUE
+"C",1,"gvag","G. vaginalis",967000,5.98543,TRUE
+"C",2,"gvag","G. vaginalis",66000,4.81954,TRUE
+"C",3,"gvag","G. vaginalis",789,2.89708,TRUE
+"C",4,"gvag","G. vaginalis",4.56e+06,6.65896,TRUE
+"C",5,"gvag","G. vaginalis",285000,5.45484,TRUE
+"C",6,"gvag","G. vaginalis",96900,4.98632,TRUE
+"C",0,"bvab1","BVAB1",375,2.57403,FALSE
+"C",1,"bvab1","BVAB1",375,2.57403,FALSE
+"C",2,"bvab1","BVAB1",375,2.57403,FALSE
+"C",3,"bvab1","BVAB1",375,2.57403,FALSE
+"C",4,"bvab1","BVAB1",375,2.57403,FALSE
+"C",5,"bvab1","BVAB1",375,2.57403,FALSE
+"C",6,"bvab1","BVAB1",375,2.57403,FALSE
+"C",0,"bvab2","BVAB2",750,2.87506,FALSE
+"C",1,"bvab2","BVAB2",750,2.87506,FALSE
+"C",2,"bvab2","BVAB2",750,2.87506,FALSE
+"C",3,"bvab2","BVAB2",750,2.87506,FALSE
+"C",4,"bvab2","BVAB2",750,2.87506,FALSE
+"C",5,"bvab2","BVAB2",750,2.87506,FALSE
+"C",6,"bvab2","BVAB2",750,2.87506,FALSE
+"C",0,"bvab3","BVAB3",750,2.87506,FALSE
+"C",1,"bvab3","BVAB3",750,2.87506,FALSE
+"C",2,"bvab3","BVAB3",750,2.87506,FALSE
+"C",3,"bvab3","BVAB3",750,2.87506,FALSE
+"C",4,"bvab3","BVAB3",750,2.87506,FALSE
+"C",5,"bvab3","BVAB3",750,2.87506,FALSE
+"C",6,"bvab3","BVAB3",750,2.87506,FALSE
+"C",0,"atop","A. vaginae",1.62e+06,6.20952,TRUE
+"C",1,"atop","A. vaginae",584000,5.76641,TRUE
+"C",2,"atop","A. vaginae",805.5,2.90607,TRUE
+"C",3,"atop","A. vaginae",375,2.57403,FALSE
+"C",4,"atop","A. vaginae",11800,4.07188,TRUE
+"C",5,"atop","A. vaginae",2640,3.4216,TRUE
+"C",6,"atop","A. vaginae",5200,3.716,TRUE
+"C",0,"mc","Mobiluncus",375,2.57403,FALSE
+"C",1,"mc","Mobiluncus",375,2.57403,FALSE
+"C",2,"mc","Mobiluncus",375,2.57403,FALSE
+"C",3,"mc","Mobiluncus",375,2.57403,FALSE
+"C",4,"mc","Mobiluncus",375,2.57403,FALSE
+"C",5,"mc","Mobiluncus",375,2.57403,FALSE
+"C",6,"mc","Mobiluncus",375,2.57403,FALSE
+"C",0,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",1,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",2,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",3,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",4,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",5,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",6,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C",0,"mega","Megasphaera",750,2.87506,FALSE
+"C",1,"mega","Megasphaera",750,2.87506,FALSE
+"C",2,"mega","Megasphaera",750,2.87506,FALSE
+"C",3,"mega","Megasphaera",750,2.87506,FALSE
+"C",4,"mega","Megasphaera",750,2.87506,FALSE
+"C",5,"mega","Megasphaera",750,2.87506,FALSE
+"C",6,"mega","Megasphaera",750,2.87506,FALSE
+"C",0,"total","Total Bacteria",6.77288e+07,7.83077,TRUE
+"C",1,"total","Total Bacteria",3.25563e+07,7.51263,TRUE
+"C",2,"total","Total Bacteria",720536,5.85766,TRUE
+"C",3,"total","Total Bacteria",601901,5.77953,TRUE
+"C",4,"total","Total Bacteria",3.98955e+07,7.60092,TRUE
+"C",5,"total","Total Bacteria",4.35044e+07,7.63853,TRUE
+"C",6,"total","Total Bacteria",3.74845e+06,6.57385,TRUE
+"C2",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"C2",1,"lcrisp","L. crispatus",10200,4.0086,TRUE
+"C2",2,"lcrisp","L. crispatus",118000,5.07188,TRUE
+"C2",4,"lcrisp","L. crispatus",4940,3.69373,TRUE
+"C2",5,"lcrisp","L. crispatus",12600,4.10037,TRUE
+"C2",6,"lcrisp","L. crispatus",41000,4.61278,TRUE
+"C2",0,"liner","L. iners",7.79e+06,6.89154,TRUE
+"C2",1,"liner","L. iners",9.36e+07,7.97128,TRUE
+"C2",2,"liner","L. iners",1.29e+07,7.11059,TRUE
+"C2",4,"liner","L. iners",1.81e+06,6.25768,TRUE
+"C2",5,"liner","L. iners",4.07e+07,7.60959,TRUE
+"C2",6,"liner","L. iners",5.64e+07,7.75128,TRUE
+"C2",0,"ljen","L. jensenii",375,2.57403,FALSE
+"C2",1,"ljen","L. jensenii",34500,4.53782,TRUE
+"C2",2,"ljen","L. jensenii",154575,5.18914,TRUE
+"C2",4,"ljen","L. jensenii",375,2.57403,FALSE
+"C2",5,"ljen","L. jensenii",60150,4.77924,TRUE
+"C2",6,"ljen","L. jensenii",122925,5.08964,TRUE
+"C2",0,"gvag","G. vaginalis",5.31e+06,6.72509,TRUE
+"C2",1,"gvag","G. vaginalis",408000,5.61066,TRUE
+"C2",2,"gvag","G. vaginalis",4110,3.61384,TRUE
+"C2",4,"gvag","G. vaginalis",1.75e+06,6.24304,TRUE
+"C2",5,"gvag","G. vaginalis",1.95e+07,7.29003,TRUE
+"C2",6,"gvag","G. vaginalis",2.36e+07,7.37291,TRUE
+"C2",0,"bvab1","BVAB1",6.94e+07,7.84136,TRUE
+"C2",1,"bvab1","BVAB1",375,2.57403,FALSE
+"C2",2,"bvab1","BVAB1",375,2.57403,FALSE
+"C2",4,"bvab1","BVAB1",375,2.57403,FALSE
+"C2",5,"bvab1","BVAB1",375,2.57403,FALSE
+"C2",6,"bvab1","BVAB1",375,2.57403,FALSE
+"C2",0,"bvab2","BVAB2",7726.5,3.88798,TRUE
+"C2",1,"bvab2","BVAB2",375,2.57403,FALSE
+"C2",2,"bvab2","BVAB2",375,2.57403,FALSE
+"C2",4,"bvab2","BVAB2",31900,4.50379,TRUE
+"C2",5,"bvab2","BVAB2",35700,4.55267,TRUE
+"C2",6,"bvab2","BVAB2",287000,5.45788,TRUE
+"C2",0,"bvab3","BVAB3",21000,4.32222,TRUE
+"C2",1,"bvab3","BVAB3",1500,3.17609,FALSE
+"C2",2,"bvab3","BVAB3",1500,3.17609,FALSE
+"C2",4,"bvab3","BVAB3",1500,3.17609,FALSE
+"C2",5,"bvab3","BVAB3",1500,3.17609,FALSE
+"C2",6,"bvab3","BVAB3",1500,3.17609,FALSE
+"C2",0,"atop","A. vaginae",357000,5.55267,TRUE
+"C2",1,"atop","A. vaginae",375,2.57403,FALSE
+"C2",2,"atop","A. vaginae",375,2.57403,FALSE
+"C2",4,"atop","A. vaginae",725,2.86034,TRUE
+"C2",5,"atop","A. vaginae",23400,4.36922,TRUE
+"C2",6,"atop","A. vaginae",77400,4.88874,TRUE
+"C2",0,"mc","Mobiluncus",22200,4.34635,TRUE
+"C2",1,"mc","Mobiluncus",375,2.57403,FALSE
+"C2",2,"mc","Mobiluncus",375,2.57403,FALSE
+"C2",4,"mc","Mobiluncus",375,2.57403,FALSE
+"C2",5,"mc","Mobiluncus",375,2.57403,FALSE
+"C2",6,"mc","Mobiluncus",165000,5.21748,TRUE
+"C2",0,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C2",1,"ls","Leptotrichia/Sneathia",4819.5,3.683,TRUE
+"C2",2,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"C2",4,"ls","Leptotrichia/Sneathia",263000,5.41996,TRUE
+"C2",5,"ls","Leptotrichia/Sneathia",440000,5.64345,TRUE
+"C2",6,"ls","Leptotrichia/Sneathia",1.43e+06,6.15534,TRUE
+"C2",0,"mega","Megasphaera",2.82e+06,6.45025,TRUE
+"C2",1,"mega","Megasphaera",750,2.87506,FALSE
+"C2",2,"mega","Megasphaera",750,2.87506,FALSE
+"C2",4,"mega","Megasphaera",750,2.87506,FALSE
+"C2",5,"mega","Megasphaera",750,2.87506,FALSE
+"C2",6,"mega","Megasphaera",750,2.87506,FALSE
+"C2",0,"total","Total Bacteria",8.57291e+07,7.93313,TRUE
+"C2",1,"total","Total Bacteria",9.40613e+07,7.97341,TRUE
+"C2",2,"total","Total Bacteria",1.31808e+07,7.11994,TRUE
+"C2",4,"total","Total Bacteria",3.86394e+06,6.58703,TRUE
+"C2",5,"total","Total Bacteria",6.07748e+07,7.78372,TRUE
+"C2",6,"total","Total Bacteria",8.2126e+07,7.91448,TRUE
+"D",0,"lcrisp","L. crispatus",620000,5.79239,TRUE
+"D",1,"lcrisp","L. crispatus",209000,5.32015,TRUE
+"D",2,"lcrisp","L. crispatus",1.01e+06,6.00432,TRUE
+"D",3,"lcrisp","L. crispatus",1.01e+06,6.00432,TRUE
+"D",4,"lcrisp","L. crispatus",404000,5.60638,TRUE
+"D",5,"lcrisp","L. crispatus",5.84e+06,6.76641,TRUE
+"D",6,"lcrisp","L. crispatus",1.05e+06,6.02119,TRUE
+"D",0,"liner","L. iners",1.41e+08,8.14922,TRUE
+"D",1,"liner","L. iners",1.4e+08,8.14613,TRUE
+"D",2,"liner","L. iners",5.97e+07,7.77597,TRUE
+"D",3,"liner","L. iners",8.99e+07,7.95376,TRUE
+"D",4,"liner","L. iners",2.94e+07,7.46835,TRUE
+"D",5,"liner","L. iners",7.07e+07,7.84942,TRUE
+"D",6,"liner","L. iners",3.41e+07,7.53275,TRUE
+"D",0,"ljen","L. jensenii",2.5e+06,6.39794,TRUE
+"D",1,"ljen","L. jensenii",275175,5.43961,TRUE
+"D",2,"ljen","L. jensenii",1.0119e+06,6.00514,TRUE
+"D",3,"ljen","L. jensenii",3.12465e+06,6.4948,TRUE
+"D",4,"ljen","L. jensenii",2.76795e+06,6.44216,TRUE
+"D",5,"ljen","L. jensenii",4.69545e+06,6.67168,TRUE
+"D",6,"ljen","L. jensenii",4.2591e+06,6.62932,TRUE
+"D",0,"gvag","G. vaginalis",1.62e+07,7.20952,TRUE
+"D",1,"gvag","G. vaginalis",7.05e+06,6.84819,TRUE
+"D",2,"gvag","G. vaginalis",229000,5.35984,TRUE
+"D",3,"gvag","G. vaginalis",375,2.57403,FALSE
+"D",4,"gvag","G. vaginalis",375,2.57403,FALSE
+"D",5,"gvag","G. vaginalis",375,2.57403,FALSE
+"D",6,"gvag","G. vaginalis",375,2.57403,FALSE
+"D",0,"bvab1","BVAB1",375,2.57403,FALSE
+"D",1,"bvab1","BVAB1",375,2.57403,FALSE
+"D",2,"bvab1","BVAB1",375,2.57403,FALSE
+"D",3,"bvab1","BVAB1",375,2.57403,FALSE
+"D",4,"bvab1","BVAB1",375,2.57403,FALSE
+"D",5,"bvab1","BVAB1",375,2.57403,FALSE
+"D",6,"bvab1","BVAB1",375,2.57403,FALSE
+"D",0,"bvab2","BVAB2",8656.5,3.93734,TRUE
+"D",1,"bvab2","BVAB2",3519,3.54642,TRUE
+"D",2,"bvab2","BVAB2",375,2.57403,FALSE
+"D",3,"bvab2","BVAB2",375,2.57403,FALSE
+"D",4,"bvab2","BVAB2",375,2.57403,FALSE
+"D",5,"bvab2","BVAB2",375,2.57403,FALSE
+"D",6,"bvab2","BVAB2",375,2.57403,FALSE
+"D",0,"bvab3","BVAB3",750,2.87506,FALSE
+"D",1,"bvab3","BVAB3",750,2.87506,FALSE
+"D",2,"bvab3","BVAB3",750,2.87506,FALSE
+"D",3,"bvab3","BVAB3",750,2.87506,FALSE
+"D",4,"bvab3","BVAB3",750,2.87506,FALSE
+"D",5,"bvab3","BVAB3",750,2.87506,FALSE
+"D",6,"bvab3","BVAB3",750,2.87506,FALSE
+"D",0,"atop","A. vaginae",82400,4.91593,TRUE
+"D",1,"atop","A. vaginae",7930,3.89927,TRUE
+"D",2,"atop","A. vaginae",375,2.57403,FALSE
+"D",3,"atop","A. vaginae",375,2.57403,FALSE
+"D",4,"atop","A. vaginae",375,2.57403,FALSE
+"D",5,"atop","A. vaginae",375,2.57403,FALSE
+"D",6,"atop","A. vaginae",375,2.57403,FALSE
+"D",0,"mc","Mobiluncus",375,2.57403,FALSE
+"D",1,"mc","Mobiluncus",375,2.57403,FALSE
+"D",2,"mc","Mobiluncus",375,2.57403,FALSE
+"D",3,"mc","Mobiluncus",375,2.57403,FALSE
+"D",4,"mc","Mobiluncus",375,2.57403,FALSE
+"D",5,"mc","Mobiluncus",375,2.57403,FALSE
+"D",6,"mc","Mobiluncus",375,2.57403,FALSE
+"D",0,"ls","Leptotrichia/Sneathia",187000,5.27184,TRUE
+"D",1,"ls","Leptotrichia/Sneathia",7240,3.85974,TRUE
+"D",2,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"D",3,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"D",4,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"D",5,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"D",6,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"D",0,"mega","Megasphaera",750,2.87506,FALSE
+"D",1,"mega","Megasphaera",750,2.87506,FALSE
+"D",2,"mega","Megasphaera",750,2.87506,FALSE
+"D",3,"mega","Megasphaera",750,2.87506,FALSE
+"D",4,"mega","Megasphaera",750,2.87506,FALSE
+"D",5,"mega","Megasphaera",750,2.87506,FALSE
+"D",6,"mega","Megasphaera",750,2.87506,FALSE
+"D",0,"total","Total Bacteria",1.606e+08,8.20575,TRUE
+"D",1,"total","Total Bacteria",1.47555e+08,8.16895,TRUE
+"D",2,"total","Total Bacteria",6.19543e+07,7.79207,TRUE
+"D",3,"total","Total Bacteria",9.40384e+07,7.97331,TRUE
+"D",4,"total","Total Bacteria",3.25757e+07,7.51289,TRUE
+"D",5,"total","Total Bacteria",8.12392e+07,7.90977,TRUE
+"D",6,"total","Total Bacteria",3.94128e+07,7.59564,TRUE
+"E",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"E",0,"liner","L. iners",268000,5.42813,TRUE
+"E",1,"liner","L. iners",1.62e+07,7.20952,TRUE
+"E",2,"liner","L. iners",1.52e+08,8.18184,TRUE
+"E",3,"liner","L. iners",8.67e+06,6.93802,TRUE
+"E",4,"liner","L. iners",1.28e+08,8.10721,TRUE
+"E",5,"liner","L. iners",6.83e+07,7.83442,TRUE
+"E",6,"liner","L. iners",1.67e+07,7.22272,TRUE
+"E",0,"ljen","L. jensenii",375,2.57403,FALSE
+"E",1,"ljen","L. jensenii",375,2.57403,FALSE
+"E",2,"ljen","L. jensenii",1.857e+06,6.26881,TRUE
+"E",3,"ljen","L. jensenii",91050,4.95928,TRUE
+"E",4,"ljen","L. jensenii",2.90355e+06,6.46293,TRUE
+"E",5,"ljen","L. jensenii",2.50035e+06,6.398,TRUE
+"E",6,"ljen","L. jensenii",1.3077e+06,6.11651,TRUE
+"E",0,"gvag","G. vaginalis",1.03e+07,7.01284,TRUE
+"E",1,"gvag","G. vaginalis",3.37e+06,6.52763,TRUE
+"E",2,"gvag","G. vaginalis",2.59e+06,6.4133,TRUE
+"E",3,"gvag","G. vaginalis",11500,4.0607,TRUE
+"E",4,"gvag","G. vaginalis",112000,5.04922,TRUE
+"E",5,"gvag","G. vaginalis",894,2.95134,TRUE
+"E",6,"gvag","G. vaginalis",730.5,2.86362,TRUE
+"E",0,"bvab1","BVAB1",1.73e+06,6.23805,TRUE
+"E",1,"bvab1","BVAB1",6840,3.83506,TRUE
+"E",2,"bvab1","BVAB1",2330,3.36736,TRUE
+"E",3,"bvab1","BVAB1",1500,3.17609,FALSE
+"E",4,"bvab1","BVAB1",750,2.87506,FALSE
+"E",5,"bvab1","BVAB1",750,2.87506,FALSE
+"E",6,"bvab1","BVAB1",750,2.87506,FALSE
+"E",0,"bvab2","BVAB2",53700,4.72997,TRUE
+"E",1,"bvab2","BVAB2",1050,3.02119,TRUE
+"E",2,"bvab2","BVAB2",375,2.57403,FALSE
+"E",3,"bvab2","BVAB2",375,2.57403,FALSE
+"E",4,"bvab2","BVAB2",375,2.57403,FALSE
+"E",5,"bvab2","BVAB2",375,2.57403,FALSE
+"E",6,"bvab2","BVAB2",375,2.57403,FALSE
+"E",0,"bvab3","BVAB3",116000,5.06446,TRUE
+"E",1,"bvab3","BVAB3",750,2.87506,FALSE
+"E",2,"bvab3","BVAB3",750,2.87506,FALSE
+"E",3,"bvab3","BVAB3",750,2.87506,FALSE
+"E",4,"bvab3","BVAB3",750,2.87506,FALSE
+"E",5,"bvab3","BVAB3",750,2.87506,FALSE
+"E",6,"bvab3","BVAB3",750,2.87506,FALSE
+"E",0,"atop","A. vaginae",1.22e+07,7.08636,TRUE
+"E",1,"atop","A. vaginae",9460,3.97589,TRUE
+"E",2,"atop","A. vaginae",864,2.93651,TRUE
+"E",3,"atop","A. vaginae",375,2.57403,FALSE
+"E",4,"atop","A. vaginae",375,2.57403,FALSE
+"E",5,"atop","A. vaginae",375,2.57403,FALSE
+"E",6,"atop","A. vaginae",375,2.57403,FALSE
+"E",0,"mc","Mobiluncus",10500,4.02119,TRUE
+"E",1,"mc","Mobiluncus",1770,3.24797,TRUE
+"E",2,"mc","Mobiluncus",375,2.57403,FALSE
+"E",3,"mc","Mobiluncus",375,2.57403,FALSE
+"E",4,"mc","Mobiluncus",375,2.57403,FALSE
+"E",5,"mc","Mobiluncus",375,2.57403,FALSE
+"E",6,"mc","Mobiluncus",375,2.57403,FALSE
+"E",0,"ls","Leptotrichia/Sneathia",941000,5.97359,TRUE
+"E",1,"ls","Leptotrichia/Sneathia",57400,4.75891,TRUE
+"E",2,"ls","Leptotrichia/Sneathia",3040.5,3.48295,TRUE
+"E",3,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"E",4,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"E",5,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"E",6,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"E",0,"mega","Megasphaera",7.28e+06,6.86213,TRUE
+"E",1,"mega","Megasphaera",375,2.57403,FALSE
+"E",2,"mega","Megasphaera",375,2.57403,FALSE
+"E",3,"mega","Megasphaera",375,2.57403,FALSE
+"E",4,"mega","Megasphaera",375,2.57403,FALSE
+"E",5,"mega","Megasphaera",375,2.57403,FALSE
+"E",6,"mega","Megasphaera",375,2.57403,FALSE
+"E",0,"total","Total Bacteria",3.29e+07,7.5172,TRUE
+"E",1,"total","Total Bacteria",1.96484e+07,7.29333,TRUE
+"E",2,"total","Total Bacteria",1.56455e+08,8.19439,TRUE
+"E",3,"total","Total Bacteria",8.77705e+06,6.94335,TRUE
+"E",4,"total","Total Bacteria",1.31019e+08,8.11734,TRUE
+"E",5,"total","Total Bacteria",7.0805e+07,7.85006,TRUE
+"E",6,"total","Total Bacteria",1.80122e+07,7.25557,TRUE
+"F",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"F",0,"liner","L. iners",5.79e+07,7.76268,TRUE
+"F",1,"liner","L. iners",1.23e+06,6.08991,TRUE
+"F",2,"liner","L. iners",956000,5.98046,TRUE
+"F",3,"liner","L. iners",327000,5.51455,TRUE
+"F",4,"liner","L. iners",2.91e+07,7.46389,TRUE
+"F",5,"liner","L. iners",2.16e+08,8.33445,TRUE
+"F",6,"liner","L. iners",947000,5.97635,TRUE
+"F",0,"ljen","L. jensenii",375,2.57403,FALSE
+"F",1,"ljen","L. jensenii",375,2.57403,FALSE
+"F",2,"ljen","L. jensenii",375,2.57403,FALSE
+"F",3,"ljen","L. jensenii",375,2.57403,FALSE
+"F",4,"ljen","L. jensenii",375,2.57403,FALSE
+"F",5,"ljen","L. jensenii",375,2.57403,FALSE
+"F",6,"ljen","L. jensenii",375,2.57403,FALSE
+"F",0,"gvag","G. vaginalis",7.86e+08,8.89542,TRUE
+"F",1,"gvag","G. vaginalis",1.52e+07,7.18184,TRUE
+"F",2,"gvag","G. vaginalis",1.9e+06,6.27875,TRUE
+"F",3,"gvag","G. vaginalis",294000,5.46835,TRUE
+"F",4,"gvag","G. vaginalis",2.16e+06,6.33445,TRUE
+"F",5,"gvag","G. vaginalis",2.96e+07,7.47129,TRUE
+"F",6,"gvag","G. vaginalis",66700,4.82413,TRUE
+"F",0,"bvab1","BVAB1",750,2.87506,FALSE
+"F",1,"bvab1","BVAB1",750,2.87506,FALSE
+"F",2,"bvab1","BVAB1",750,2.87506,FALSE
+"F",3,"bvab1","BVAB1",750,2.87506,FALSE
+"F",4,"bvab1","BVAB1",750,2.87506,FALSE
+"F",5,"bvab1","BVAB1",750,2.87506,FALSE
+"F",6,"bvab1","BVAB1",750,2.87506,FALSE
+"F",0,"bvab2","BVAB2",3.16e+07,7.49969,TRUE
+"F",1,"bvab2","BVAB2",2.91e+06,6.46389,TRUE
+"F",2,"bvab2","BVAB2",369000,5.56703,TRUE
+"F",3,"bvab2","BVAB2",28000,4.44716,TRUE
+"F",4,"bvab2","BVAB2",5385,3.73119,TRUE
+"F",5,"bvab2","BVAB2",375,2.57403,FALSE
+"F",6,"bvab2","BVAB2",2290,3.35984,TRUE
+"F",0,"bvab3","BVAB3",750,2.87506,FALSE
+"F",1,"bvab3","BVAB3",750,2.87506,FALSE
+"F",2,"bvab3","BVAB3",750,2.87506,FALSE
+"F",3,"bvab3","BVAB3",750,2.87506,FALSE
+"F",4,"bvab3","BVAB3",750,2.87506,FALSE
+"F",5,"bvab3","BVAB3",750,2.87506,FALSE
+"F",6,"bvab3","BVAB3",750,2.87506,FALSE
+"F",0,"atop","A. vaginae",2.15e+08,8.33244,TRUE
+"F",1,"atop","A. vaginae",3.12e+06,6.49415,TRUE
+"F",2,"atop","A. vaginae",34000,4.53148,TRUE
+"F",3,"atop","A. vaginae",4670,3.66932,TRUE
+"F",4,"atop","A. vaginae",509,2.70672,TRUE
+"F",5,"atop","A. vaginae",375,2.57403,FALSE
+"F",6,"atop","A. vaginae",375,2.57403,FALSE
+"F",0,"mc","Mobiluncus",582000,5.76492,TRUE
+"F",1,"mc","Mobiluncus",9380,3.9722,TRUE
+"F",2,"mc","Mobiluncus",11900,4.07555,TRUE
+"F",3,"mc","Mobiluncus",1195.5,3.07755,TRUE
+"F",4,"mc","Mobiluncus",375,2.57403,FALSE
+"F",5,"mc","Mobiluncus",375,2.57403,FALSE
+"F",6,"mc","Mobiluncus",375,2.57403,FALSE
+"F",0,"ls","Leptotrichia/Sneathia",1.39e+08,8.14301,TRUE
+"F",1,"ls","Leptotrichia/Sneathia",2.32e+06,6.36549,TRUE
+"F",2,"ls","Leptotrichia/Sneathia",646000,5.81023,TRUE
+"F",3,"ls","Leptotrichia/Sneathia",121000,5.08279,TRUE
+"F",4,"ls","Leptotrichia/Sneathia",11300,4.05308,TRUE
+"F",5,"ls","Leptotrichia/Sneathia",1020,3.0086,TRUE
+"F",6,"ls","Leptotrichia/Sneathia",9040,3.95617,TRUE
+"F",0,"mega","Megasphaera",2.94e+08,8.46835,TRUE
+"F",1,"mega","Megasphaera",148000,5.17026,TRUE
+"F",2,"mega","Megasphaera",29200,4.46538,TRUE
+"F",3,"mega","Megasphaera",7128,3.85297,TRUE
+"F",4,"mega","Megasphaera",1287,3.10958,TRUE
+"F",5,"mega","Megasphaera",375,2.57403,FALSE
+"F",6,"mega","Megasphaera",1546.5,3.18935,TRUE
+"F",0,"total","Total Bacteria",1.52408e+09,9.18301,TRUE
+"F",1,"total","Total Bacteria",2.49396e+07,7.39689,TRUE
+"F",2,"total","Total Bacteria",3.94835e+06,6.59642,TRUE
+"F",3,"total","Total Bacteria",785244,5.895,TRUE
+"F",4,"total","Total Bacteria",3.12811e+07,7.49528,TRUE
+"F",5,"total","Total Bacteria",2.45605e+08,8.39024,TRUE
+"F",6,"total","Total Bacteria",1.02958e+06,6.01266,TRUE
+"G",0,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",1,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",2,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",3,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",4,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",5,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",6,"lcrisp","L. crispatus",375,2.57403,FALSE
+"G",0,"liner","L. iners",5.96835e+06,6.77585,TRUE
+"G",1,"liner","L. iners",399150,5.60114,TRUE
+"G",2,"liner","L. iners",1.30005e+06,6.11396,TRUE
+"G",3,"liner","L. iners",2.65755e+06,6.42448,TRUE
+"G",4,"liner","L. iners",1.1895e+06,6.07536,TRUE
+"G",5,"liner","L. iners",5.28645e+06,6.72316,TRUE
+"G",6,"liner","L. iners",4.425e+07,7.64591,TRUE
+"G",0,"ljen","L. jensenii",375,2.57403,FALSE
+"G",1,"ljen","L. jensenii",375,2.57403,FALSE
+"G",2,"ljen","L. jensenii",375,2.57403,FALSE
+"G",3,"ljen","L. jensenii",375,2.57403,FALSE
+"G",4,"ljen","L. jensenii",375,2.57403,FALSE
+"G",5,"ljen","L. jensenii",375,2.57403,FALSE
+"G",6,"ljen","L. jensenii",375,2.57403,FALSE
+"G",0,"gvag","G. vaginalis",7.37e+07,7.86747,TRUE
+"G",1,"gvag","G. vaginalis",1.13e+06,6.05308,TRUE
+"G",2,"gvag","G. vaginalis",1.31e+06,6.11727,TRUE
+"G",3,"gvag","G. vaginalis",842000,5.92531,TRUE
+"G",4,"gvag","G. vaginalis",108000,5.03342,TRUE
+"G",5,"gvag","G. vaginalis",686000,5.83632,TRUE
+"G",6,"gvag","G. vaginalis",896000,5.95231,TRUE
+"G",0,"bvab1","BVAB1",375,2.57403,FALSE
+"G",1,"bvab1","BVAB1",375,2.57403,FALSE
+"G",2,"bvab1","BVAB1",375,2.57403,FALSE
+"G",3,"bvab1","BVAB1",375,2.57403,FALSE
+"G",4,"bvab1","BVAB1",375,2.57403,FALSE
+"G",5,"bvab1","BVAB1",375,2.57403,FALSE
+"G",6,"bvab1","BVAB1",375,2.57403,FALSE
+"G",0,"bvab2","BVAB2",614000,5.78817,TRUE
+"G",1,"bvab2","BVAB2",8220,3.91487,TRUE
+"G",2,"bvab2","BVAB2",11700,4.06819,TRUE
+"G",3,"bvab2","BVAB2",2170,3.33646,TRUE
+"G",4,"bvab2","BVAB2",375,2.57403,FALSE
+"G",5,"bvab2","BVAB2",375,2.57403,FALSE
+"G",6,"bvab2","BVAB2",375,2.57403,FALSE
+"G",0,"bvab3","BVAB3",750,2.87506,FALSE
+"G",1,"bvab3","BVAB3",750,2.87506,FALSE
+"G",2,"bvab3","BVAB3",750,2.87506,FALSE
+"G",3,"bvab3","BVAB3",750,2.87506,FALSE
+"G",4,"bvab3","BVAB3",750,2.87506,FALSE
+"G",5,"bvab3","BVAB3",750,2.87506,FALSE
+"G",6,"bvab3","BVAB3",750,2.87506,FALSE
+"G",0,"atop","A. vaginae",9.54814e+06,6.97992,TRUE
+"G",1,"atop","A. vaginae",28381.5,4.45304,TRUE
+"G",2,"atop","A. vaginae",22620,4.35449,TRUE
+"G",3,"atop","A. vaginae",15852,4.20008,TRUE
+"G",4,"atop","A. vaginae",375,2.57403,FALSE
+"G",5,"atop","A. vaginae",375,2.57403,FALSE
+"G",6,"atop","A. vaginae",375,2.57403,FALSE
+"G",0,"mc","Mobiluncus",375,2.57403,FALSE
+"G",1,"mc","Mobiluncus",375,2.57403,FALSE
+"G",2,"mc","Mobiluncus",375,2.57403,FALSE
+"G",3,"mc","Mobiluncus",375,2.57403,FALSE
+"G",4,"mc","Mobiluncus",375,2.57403,FALSE
+"G",5,"mc","Mobiluncus",375,2.57403,FALSE
+"G",6,"mc","Mobiluncus",375,2.57403,FALSE
+"G",0,"ls","Leptotrichia/Sneathia",2.52054e+07,7.40149,TRUE
+"G",1,"ls","Leptotrichia/Sneathia",65712,4.81764,TRUE
+"G",2,"ls","Leptotrichia/Sneathia",162621,5.21118,TRUE
+"G",3,"ls","Leptotrichia/Sneathia",42472.5,4.62811,TRUE
+"G",4,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"G",5,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"G",6,"ls","Leptotrichia/Sneathia",375,2.57403,FALSE
+"G",0,"mega","Megasphaera",7.32e+06,6.86451,TRUE
+"G",1,"mega","Megasphaera",25000,4.39794,TRUE
+"G",2,"mega","Megasphaera",45500,4.65801,TRUE
+"G",3,"mega","Megasphaera",5874,3.76893,TRUE
+"G",4,"mega","Megasphaera",1500,3.17609,FALSE
+"G",5,"mega","Megasphaera",1500,3.17609,FALSE
+"G",6,"mega","Megasphaera",1500,3.17609,FALSE
+"G",0,"total","Total Bacteria",1.22358e+08,8.08763,TRUE
+"G",1,"total","Total Bacteria",1.65871e+06,6.21977,TRUE
+"G",2,"total","Total Bacteria",2.85474e+06,6.45557,TRUE
+"G",3,"total","Total Bacteria",3.56817e+06,6.55245,TRUE
+"G",4,"total","Total Bacteria",1.30238e+06,6.11474,TRUE
+"G",5,"total","Total Bacteria",5.97732e+06,6.77651,TRUE
+"G",6,"total","Total Bacteria",4.51509e+07,7.65467,TRUE
+"H",0,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",1,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",2,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",3,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",4,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",5,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",6,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",7,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",8,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",9,"lcrisp","L. crispatus",750,2.87506,FALSE
+"H",0,"liner","L. iners",6.27e+07,7.79727,TRUE
+"H",1,"liner","L. iners",1.19e+09,9.07555,TRUE
+"H",2,"liner","L. iners",1.05e+09,9.02119,TRUE
+"H",3,"liner","L. iners",9.68e+08,8.98588,TRUE
+"H",4,"liner","L. iners",7.1e+08,8.85126,TRUE
+"H",5,"liner","L. iners",1.31e+09,9.11727,TRUE
+"H",6,"liner","L. iners",9.18e+08,8.96284,TRUE
+"H",7,"liner","L. iners",3.67e+08,8.56467,TRUE
+"H",8,"liner","L. iners",9.75e+08,8.989,TRUE
+"H",9,"liner","L. iners",3.11e+09,9.49276,TRUE
+"H",0,"ljen","L. jensenii",750,2.87506,FALSE
+"H",1,"ljen","L. jensenii",750,2.87506,FALSE
+"H",2,"ljen","L. jensenii",750,2.87506,FALSE
+"H",3,"ljen","L. jensenii",750,2.87506,FALSE
+"H",4,"ljen","L. jensenii",750,2.87506,FALSE
+"H",5,"ljen","L. jensenii",750,2.87506,FALSE
+"H",6,"ljen","L. jensenii",750,2.87506,FALSE
+"H",7,"ljen","L. jensenii",750,2.87506,FALSE
+"H",8,"ljen","L. jensenii",750,2.87506,FALSE
+"H",9,"ljen","L. jensenii",750,2.87506,FALSE
+"H",0,"gvag","G. vaginalis",2.97e+09,9.47276,TRUE
+"H",1,"gvag","G. vaginalis",1.31e+08,8.11727,TRUE
+"H",2,"gvag","G. vaginalis",2.41e+07,7.38202,TRUE
+"H",3,"gvag","G. vaginalis",6.25e+06,6.79588,TRUE
+"H",4,"gvag","G. vaginalis",281000,5.44871,TRUE
+"H",5,"gvag","G. vaginalis",142000,5.15229,TRUE
+"H",6,"gvag","G. vaginalis",8570,3.93298,TRUE
+"H",7,"gvag","G. vaginalis",9680,3.98588,TRUE
+"H",8,"gvag","G. vaginalis",750,2.87506,FALSE
+"H",9,"gvag","G. vaginalis",9160,3.9619,TRUE
+"H",0,"bvab1","BVAB1",750,2.87506,FALSE
+"H",1,"bvab1","BVAB1",750,2.87506,FALSE
+"H",2,"bvab1","BVAB1",750,2.87506,FALSE
+"H",3,"bvab1","BVAB1",750,2.87506,FALSE
+"H",4,"bvab1","BVAB1",750,2.87506,FALSE
+"H",5,"bvab1","BVAB1",750,2.87506,FALSE
+"H",6,"bvab1","BVAB1",750,2.87506,FALSE
+"H",7,"bvab1","BVAB1",750,2.87506,FALSE
+"H",8,"bvab1","BVAB1",750,2.87506,FALSE
+"H",9,"bvab1","BVAB1",750,2.87506,FALSE
+"H",0,"bvab2","BVAB2",551000,5.74115,TRUE
+"H",1,"bvab2","BVAB2",2700,3.43136,TRUE
+"H",2,"bvab2","BVAB2",750,2.87506,FALSE
+"H",3,"bvab2","BVAB2",750,2.87506,FALSE
+"H",4,"bvab2","BVAB2",750,2.87506,FALSE
+"H",5,"bvab2","BVAB2",750,2.87506,FALSE
+"H",6,"bvab2","BVAB2",750,2.87506,FALSE
+"H",7,"bvab2","BVAB2",750,2.87506,FALSE
+"H",8,"bvab2","BVAB2",750,2.87506,FALSE
+"H",9,"bvab2","BVAB2",750,2.87506,FALSE
+"H",0,"bvab3","BVAB3",2.59e+06,6.4133,TRUE
+"H",1,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",2,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",3,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",4,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",5,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",6,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",7,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",8,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",9,"bvab3","BVAB3",1500,3.17609,FALSE
+"H",0,"atop","A. vaginae",1.05e+08,8.02119,TRUE
+"H",1,"atop","A. vaginae",37900,4.57864,TRUE
+"H",2,"atop","A. vaginae",1900,3.27875,TRUE
+"H",3,"atop","A. vaginae",750,2.87506,FALSE
+"H",4,"atop","A. vaginae",750,2.87506,FALSE
+"H",5,"atop","A. vaginae",750,2.87506,FALSE
+"H",6,"atop","A. vaginae",750,2.87506,FALSE
+"H",7,"atop","A. vaginae",750,2.87506,FALSE
+"H",8,"atop","A. vaginae",750,2.87506,FALSE
+"H",9,"atop","A. vaginae",750,2.87506,FALSE
+"H",0,"mc","Mobiluncus",375,2.57403,FALSE
+"H",1,"mc","Mobiluncus",375,2.57403,FALSE
+"H",2,"mc","Mobiluncus",375,2.57403,FALSE
+"H",3,"mc","Mobiluncus",375,2.57403,FALSE
+"H",4,"mc","Mobiluncus",375,2.57403,FALSE
+"H",5,"mc","Mobiluncus",375,2.57403,FALSE
+"H",6,"mc","Mobiluncus",375,2.57403,FALSE
+"H",7,"mc","Mobiluncus",375,2.57403,FALSE
+"H",8,"mc","Mobiluncus",375,2.57403,FALSE
+"H",9,"mc","Mobiluncus",375,2.57403,FALSE
+"H",0,"ls","Leptotrichia/Sneathia",3.22e+07,7.50786,TRUE
+"H",1,"ls","Leptotrichia/Sneathia",8.99e+07,7.95376,TRUE
+"H",2,"ls","Leptotrichia/Sneathia",3.8e+06,6.57978,TRUE
+"H",3,"ls","Leptotrichia/Sneathia",525000,5.72016,TRUE
+"H",4,"ls","Leptotrichia/Sneathia",10400,4.01703,TRUE
+"H",5,"ls","Leptotrichia/Sneathia",5620,3.74974,TRUE
+"H",6,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"H",7,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"H",8,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"H",9,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"H",0,"mega","Megasphaera",2.21742e+06,6.34585,TRUE
+"H",1,"mega","Megasphaera",1179,3.07151,TRUE
+"H",2,"mega","Megasphaera",750,2.87506,FALSE
+"H",3,"mega","Megasphaera",750,2.87506,FALSE
+"H",4,"mega","Megasphaera",750,2.87506,FALSE
+"H",5,"mega","Megasphaera",750,2.87506,FALSE
+"H",6,"mega","Megasphaera",750,2.87506,FALSE
+"H",7,"mega","Megasphaera",750,2.87506,FALSE
+"H",8,"mega","Megasphaera",750,2.87506,FALSE
+"H",9,"mega","Megasphaera",750,2.87506,FALSE
+"H",0,"total","Total Bacteria",3.17526e+09,9.50178,TRUE
+"H",1,"total","Total Bacteria",1.41095e+09,9.14951,TRUE
+"H",2,"total","Total Bacteria",1.07791e+09,9.03258,TRUE
+"H",3,"total","Total Bacteria",9.74781e+08,8.98891,TRUE
+"H",4,"total","Total Bacteria",7.10298e+08,8.85144,TRUE
+"H",5,"total","Total Bacteria",1.31015e+09,9.11732,TRUE
+"H",6,"total","Total Bacteria",9.18016e+08,8.96285,TRUE
+"H",7,"total","Total Bacteria",3.67017e+08,8.56469,TRUE
+"H",8,"total","Total Bacteria",9.75008e+08,8.98901,TRUE
+"H",9,"total","Total Bacteria",3.11002e+09,9.49276,TRUE
+"I",0,"lcrisp","L. crispatus",981,2.99167,TRUE
+"I",1,"lcrisp","L. crispatus",750,2.87506,FALSE
+"I",2,"lcrisp","L. crispatus",750,2.87506,FALSE
+"I",3,"lcrisp","L. crispatus",750,2.87506,FALSE
+"I",4,"lcrisp","L. crispatus",750,2.87506,FALSE
+"I",5,"lcrisp","L. crispatus",750,2.87506,FALSE
+"I",6,"lcrisp","L. crispatus",750,2.87506,FALSE
+"I",0,"liner","L. iners",2.24e+09,9.35025,TRUE
+"I",1,"liner","L. iners",3.51e+07,7.54531,TRUE
+"I",2,"liner","L. iners",1.02e+08,8.0086,TRUE
+"I",3,"liner","L. iners",8.11e+06,6.90902,TRUE
+"I",4,"liner","L. iners",1.13e+10,10.0531,TRUE
+"I",5,"liner","L. iners",1.14e+10,10.0569,TRUE
+"I",6,"liner","L. iners",5.07e+09,9.70501,TRUE
+"I",0,"ljen","L. jensenii",750,2.87506,FALSE
+"I",1,"ljen","L. jensenii",750,2.87506,FALSE
+"I",2,"ljen","L. jensenii",750,2.87506,FALSE
+"I",3,"ljen","L. jensenii",750,2.87506,FALSE
+"I",4,"ljen","L. jensenii",750,2.87506,FALSE
+"I",5,"ljen","L. jensenii",750,2.87506,FALSE
+"I",6,"ljen","L. jensenii",750,2.87506,FALSE
+"I",0,"gvag","G. vaginalis",3.57e+09,9.55267,TRUE
+"I",1,"gvag","G. vaginalis",2.24e+07,7.35025,TRUE
+"I",2,"gvag","G. vaginalis",1.68e+06,6.22531,TRUE
+"I",3,"gvag","G. vaginalis",22800,4.35793,TRUE
+"I",4,"gvag","G. vaginalis",400000,5.60206,TRUE
+"I",5,"gvag","G. vaginalis",2.09e+06,6.32015,TRUE
+"I",6,"gvag","G. vaginalis",1.23e+06,6.08991,TRUE
+"I",0,"bvab1","BVAB1",8.37e+08,8.92273,TRUE
+"I",1,"bvab1","BVAB1",817000,5.91222,TRUE
+"I",2,"bvab1","BVAB1",201000,5.3032,TRUE
+"I",3,"bvab1","BVAB1",11400,4.0569,TRUE
+"I",4,"bvab1","BVAB1",42000,4.62325,TRUE
+"I",5,"bvab1","BVAB1",825,2.91645,TRUE
+"I",6,"bvab1","BVAB1",750,2.87506,FALSE
+"I",0,"bvab2","BVAB2",4.65e+07,7.66745,TRUE
+"I",1,"bvab2","BVAB2",87800,4.94349,TRUE
+"I",2,"bvab2","BVAB2",4551,3.65811,TRUE
+"I",3,"bvab2","BVAB2",750,2.87506,FALSE
+"I",4,"bvab2","BVAB2",750,2.87506,FALSE
+"I",5,"bvab2","BVAB2",750,2.87506,FALSE
+"I",6,"bvab2","BVAB2",6375,3.80448,TRUE
+"I",0,"bvab3","BVAB3",2.73e+06,6.43616,TRUE
+"I",1,"bvab3","BVAB3",2868,3.45758,TRUE
+"I",2,"bvab3","BVAB3",1500,3.17609,FALSE
+"I",3,"bvab3","BVAB3",1500,3.17609,FALSE
+"I",4,"bvab3","BVAB3",1500,3.17609,FALSE
+"I",5,"bvab3","BVAB3",1500,3.17609,FALSE
+"I",6,"bvab3","BVAB3",1500,3.17609,FALSE
+"I",0,"atop","A. vaginae",1.13e+09,9.05308,TRUE
+"I",1,"atop","A. vaginae",4.45e+06,6.64836,TRUE
+"I",2,"atop","A. vaginae",68600,4.83632,TRUE
+"I",3,"atop","A. vaginae",750,2.87506,FALSE
+"I",4,"atop","A. vaginae",6140,3.78817,TRUE
+"I",5,"atop","A. vaginae",15400,4.18752,TRUE
+"I",6,"atop","A. vaginae",4210,3.62428,TRUE
+"I",0,"mc","Mobiluncus",329000,5.5172,TRUE
+"I",1,"mc","Mobiluncus",3044,3.48344,TRUE
+"I",2,"mc","Mobiluncus",375,2.57403,FALSE
+"I",3,"mc","Mobiluncus",479,2.68034,TRUE
+"I",4,"mc","Mobiluncus",969,2.98632,TRUE
+"I",5,"mc","Mobiluncus",3372,3.52789,TRUE
+"I",6,"mc","Mobiluncus",1300.5,3.11411,TRUE
+"I",0,"ls","Leptotrichia/Sneathia",1.71e+08,8.233,TRUE
+"I",1,"ls","Leptotrichia/Sneathia",979000,5.99078,TRUE
+"I",2,"ls","Leptotrichia/Sneathia",41800,4.62118,TRUE
+"I",3,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"I",4,"ls","Leptotrichia/Sneathia",21600,4.33445,TRUE
+"I",5,"ls","Leptotrichia/Sneathia",194000,5.2878,TRUE
+"I",6,"ls","Leptotrichia/Sneathia",29900,4.47567,TRUE
+"I",0,"mega","Megasphaera",5.19e+08,8.71517,TRUE
+"I",1,"mega","Megasphaera",4.56744e+06,6.65967,TRUE
+"I",2,"mega","Megasphaera",105360,5.02268,TRUE
+"I",3,"mega","Megasphaera",3000,3.47712,FALSE
+"I",4,"mega","Megasphaera",2922,3.46568,TRUE
+"I",5,"mega","Megasphaera",3000,3.47712,FALSE
+"I",6,"mega","Megasphaera",3000,3.47712,FALSE
+"I",0,"total","Total Bacteria",8.51656e+09,9.93026,TRUE
+"I",1,"total","Total Bacteria",6.84087e+07,7.83511,TRUE
+"I",2,"total","Total Bacteria",1.04105e+08,8.01747,TRUE
+"I",3,"total","Total Bacteria",8.15293e+06,6.91131,TRUE
+"I",4,"total","Total Bacteria",1.13005e+10,10.0531,TRUE
+"I",5,"total","Total Bacteria",1.14023e+10,10.057,TRUE
+"I",6,"total","Total Bacteria",5.07128e+09,9.70512,TRUE
+"J",0,"lcrisp","L. crispatus",750,2.87506,FALSE
+"J",1,"lcrisp","L. crispatus",750,2.87506,FALSE
+"J",2,"lcrisp","L. crispatus",750,2.87506,FALSE
+"J",3,"lcrisp","L. crispatus",750,2.87506,FALSE
+"J",4,"lcrisp","L. crispatus",750,2.87506,FALSE
+"J",5,"lcrisp","L. crispatus",2391,3.37858,TRUE
+"J",6,"lcrisp","L. crispatus",1515,3.18041,TRUE
+"J",7,"lcrisp","L. crispatus",7317,3.86433,TRUE
+"J",8,"lcrisp","L. crispatus",15800,4.19866,TRUE
+"J",9,"lcrisp","L. crispatus",188000,5.27416,TRUE
+"J",0,"liner","L. iners",8.09e+06,6.90795,TRUE
+"J",1,"liner","L. iners",1.97e+09,9.29447,TRUE
+"J",2,"liner","L. iners",1.47e+09,9.16732,TRUE
+"J",3,"liner","L. iners",2.26e+09,9.35411,TRUE
+"J",4,"liner","L. iners",9.18e+08,8.96284,TRUE
+"J",5,"liner","L. iners",6.24e+08,8.79518,TRUE
+"J",6,"liner","L. iners",5.4e+09,9.73239,TRUE
+"J",7,"liner","L. iners",2.38e+09,9.37658,TRUE
+"J",8,"liner","L. iners",6.24e+08,8.79518,TRUE
+"J",9,"liner","L. iners",1.16e+09,9.06446,TRUE
+"J",0,"ljen","L. jensenii",750,2.87506,FALSE
+"J",1,"ljen","L. jensenii",750,2.87506,FALSE
+"J",2,"ljen","L. jensenii",750,2.87506,FALSE
+"J",3,"ljen","L. jensenii",750,2.87506,FALSE
+"J",4,"ljen","L. jensenii",750,2.87506,FALSE
+"J",5,"ljen","L. jensenii",750,2.87506,FALSE
+"J",6,"ljen","L. jensenii",750,2.87506,FALSE
+"J",7,"ljen","L. jensenii",6720,3.82737,TRUE
+"J",8,"ljen","L. jensenii",40200,4.60423,TRUE
+"J",9,"ljen","L. jensenii",48000,4.68124,TRUE
+"J",0,"gvag","G. vaginalis",1.05e+09,9.02119,TRUE
+"J",1,"gvag","G. vaginalis",3.3e+08,8.51851,TRUE
+"J",2,"gvag","G. vaginalis",8.26e+07,7.91698,TRUE
+"J",3,"gvag","G. vaginalis",1.89e+07,7.27646,TRUE
+"J",4,"gvag","G. vaginalis",707000,5.84942,TRUE
+"J",5,"gvag","G. vaginalis",101000,5.00432,TRUE
+"J",6,"gvag","G. vaginalis",909000,5.95856,TRUE
+"J",7,"gvag","G. vaginalis",212000,5.32634,TRUE
+"J",8,"gvag","G. vaginalis",6420,3.80754,TRUE
+"J",9,"gvag","G. vaginalis",68200,4.83378,TRUE
+"J",0,"bvab1","BVAB1",1.45e+09,9.16137,TRUE
+"J",1,"bvab1","BVAB1",1.58e+08,8.19866,TRUE
+"J",2,"bvab1","BVAB1",1.11e+07,7.04532,TRUE
+"J",3,"bvab1","BVAB1",2.97e+06,6.47276,TRUE
+"J",4,"bvab1","BVAB1",180000,5.25527,TRUE
+"J",5,"bvab1","BVAB1",49700,4.69636,TRUE
+"J",6,"bvab1","BVAB1",750,2.87506,FALSE
+"J",7,"bvab1","BVAB1",750,2.87506,FALSE
+"J",8,"bvab1","BVAB1",750,2.87506,FALSE
+"J",9,"bvab1","BVAB1",750,2.87506,FALSE
+"J",0,"bvab2","BVAB2",3.16e+06,6.49969,TRUE
+"J",1,"bvab2","BVAB2",352000,5.54654,TRUE
+"J",2,"bvab2","BVAB2",22900,4.35984,TRUE
+"J",3,"bvab2","BVAB2",7160,3.85491,TRUE
+"J",4,"bvab2","BVAB2",750,2.87506,FALSE
+"J",5,"bvab2","BVAB2",750,2.87506,FALSE
+"J",6,"bvab2","BVAB2",750,2.87506,FALSE
+"J",7,"bvab2","BVAB2",750,2.87506,FALSE
+"J",8,"bvab2","BVAB2",750,2.87506,FALSE
+"J",9,"bvab2","BVAB2",750,2.87506,FALSE
+"J",0,"bvab3","BVAB3",561000,5.74896,TRUE
+"J",1,"bvab3","BVAB3",33700,4.52763,TRUE
+"J",2,"bvab3","BVAB3",3213,3.50691,TRUE
+"J",3,"bvab3","BVAB3",1062,3.02612,TRUE
+"J",4,"bvab3","BVAB3",750,2.87506,FALSE
+"J",5,"bvab3","BVAB3",750,2.87506,FALSE
+"J",6,"bvab3","BVAB3",750,2.87506,FALSE
+"J",7,"bvab3","BVAB3",750,2.87506,FALSE
+"J",8,"bvab3","BVAB3",750,2.87506,FALSE
+"J",9,"bvab3","BVAB3",750,2.87506,FALSE
+"J",0,"atop","A. vaginae",2.04e+08,8.30963,TRUE
+"J",1,"atop","A. vaginae",6.78e+06,6.83123,TRUE
+"J",2,"atop","A. vaginae",485000,5.68574,TRUE
+"J",3,"atop","A. vaginae",124000,5.09342,TRUE
+"J",4,"atop","A. vaginae",8349,3.92163,TRUE
+"J",5,"atop","A. vaginae",873,2.94101,TRUE
+"J",6,"atop","A. vaginae",750,2.87506,FALSE
+"J",7,"atop","A. vaginae",750,2.87506,FALSE
+"J",8,"atop","A. vaginae",750,2.87506,FALSE
+"J",9,"atop","A. vaginae",1371,3.13704,TRUE
+"J",0,"mc","Mobiluncus",375,2.57403,FALSE
+"J",1,"mc","Mobiluncus",1594,3.20249,TRUE
+"J",2,"mc","Mobiluncus",375,2.57403,FALSE
+"J",3,"mc","Mobiluncus",375,2.57403,FALSE
+"J",4,"mc","Mobiluncus",375,2.57403,FALSE
+"J",5,"mc","Mobiluncus",375,2.57403,FALSE
+"J",6,"mc","Mobiluncus",375,2.57403,FALSE
+"J",7,"mc","Mobiluncus",375,2.57403,FALSE
+"J",8,"mc","Mobiluncus",375,2.57403,FALSE
+"J",9,"mc","Mobiluncus",375,2.57403,FALSE
+"J",0,"ls","Leptotrichia/Sneathia",1.43e+07,7.15534,TRUE
+"J",1,"ls","Leptotrichia/Sneathia",280000,5.44716,TRUE
+"J",2,"ls","Leptotrichia/Sneathia",30500,4.4843,TRUE
+"J",3,"ls","Leptotrichia/Sneathia",9666,3.98525,TRUE
+"J",4,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"J",5,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"J",6,"ls","Leptotrichia/Sneathia",7098,3.85114,TRUE
+"J",7,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"J",8,"ls","Leptotrichia/Sneathia",750,2.87506,FALSE
+"J",9,"ls","Leptotrichia/Sneathia",4590,3.66181,TRUE
+"J",0,"mega","Megasphaera",8.45936e+07,7.92734,TRUE
+"J",1,"mega","Megasphaera",1.71856e+07,7.23516,TRUE
+"J",2,"mega","Megasphaera",1.46887e+06,6.16698,TRUE
+"J",3,"mega","Megasphaera",389460,5.59046,TRUE
+"J",4,"mega","Megasphaera",23727,4.37524,TRUE
+"J",5,"mega","Megasphaera",4056,3.6081,TRUE
+"J",6,"mega","Megasphaera",750,2.87506,FALSE
+"J",7,"mega","Megasphaera",750,2.87506,FALSE
+"J",8,"mega","Megasphaera",750,2.87506,FALSE
+"J",9,"mega","Megasphaera",750,2.87506,FALSE
+"J",0,"total","Total Bacteria",2.81471e+09,9.44943,TRUE
+"J",1,"total","Total Bacteria",2.48263e+09,9.39491,TRUE
+"J",2,"total","Total Bacteria",1.56571e+09,9.19471,TRUE
+"J",3,"total","Total Bacteria",2.2824e+09,9.35839,TRUE
+"J",4,"total","Total Bacteria",9.18923e+08,8.96328,TRUE
+"J",5,"total","Total Bacteria",6.24161e+08,8.7953,TRUE
+"J",6,"total","Total Bacteria",5.40092e+09,9.73247,TRUE
+"J",7,"total","Total Bacteria",2.38023e+09,9.37662,TRUE
+"J",8,"total","Total Bacteria",6.24067e+08,8.79523,TRUE
+"J",9,"total","Total Bacteria",1.16031e+09,9.06458,TRUE
+"K",0,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",1,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",2,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",3,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",4,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",5,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",6,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",7,"lcrisp","L. crispatus",750,2.87506,FALSE
+"K",0,"liner","L. iners",1.0221e+06,6.00949,TRUE
+"K",1,"liner","L. iners",126150,5.10089,TRUE
+"K",2,"liner","L. iners",1.1874e+06,6.0746,TRUE
+"K",3,"liner","L. iners",4050,3.60746,TRUE
+"K",4,"liner","L. iners",546300,5.73743,TRUE
+"K",5,"liner","L. iners",118050,5.07207,TRUE
+"K",6,"liner","L. iners",423000,5.62634,TRUE
+"K",7,"liner","L. iners",114450,5.05862,TRUE
+"K",0,"ljen","L. jensenii",750,2.87506,FALSE
+"K",1,"ljen","L. jensenii",750,2.87506,FALSE
+"K",2,"ljen","L. jensenii",750,2.87506,FALSE
+"K",3,"ljen","L. jensenii",750,2.87506,FALSE
+"K",4,"ljen","L. jensenii",750,2.87506,FALSE
+"K",5,"ljen","L. jensenii",268500,5.42894,TRUE
+"K",6,"ljen","L. jensenii",187050,5.27196,TRUE
+"K",7,"ljen","L. jensenii",4.56075e+06,6.65904,TRUE
+"K",0,"gvag","G. vaginalis",5.85e+08,8.76716,TRUE
+"K",1,"gvag","G. vaginalis",7.37e+06,6.86747,TRUE
+"K",2,"gvag","G. vaginalis",2.43e+06,6.38561,TRUE
+"K",3,"gvag","G. vaginalis",332000,5.52114,TRUE
+"K",4,"gvag","G. vaginalis",173000,5.23805,TRUE
+"K",5,"gvag","G. vaginalis",53700,4.72997,TRUE
+"K",6,"gvag","G. vaginalis",64700,4.8109,TRUE
+"K",7,"gvag","G. vaginalis",9900,3.99564,TRUE
+"K",0,"bvab1","BVAB1",750,2.87506,FALSE
+"K",1,"bvab1","BVAB1",750,2.87506,FALSE
+"K",2,"bvab1","BVAB1",750,2.87506,FALSE
+"K",3,"bvab1","BVAB1",750,2.87506,FALSE
+"K",4,"bvab1","BVAB1",750,2.87506,FALSE
+"K",5,"bvab1","BVAB1",750,2.87506,FALSE
+"K",6,"bvab1","BVAB1",750,2.87506,FALSE
+"K",7,"bvab1","BVAB1",750,2.87506,FALSE
+"K",0,"bvab2","BVAB2",9.25e+07,7.96614,TRUE
+"K",1,"bvab2","BVAB2",329000,5.5172,TRUE
+"K",2,"bvab2","BVAB2",211000,5.32428,TRUE
+"K",3,"bvab2","BVAB2",18900,4.27646,TRUE
+"K",4,"bvab2","BVAB2",16400,4.21484,TRUE
+"K",5,"bvab2","BVAB2",1630,3.21219,TRUE
+"K",6,"bvab2","BVAB2",750,2.87506,FALSE
+"K",7,"bvab2","BVAB2",750,2.87506,FALSE
+"K",0,"bvab3","BVAB3",750,2.87506,FALSE
+"K",1,"bvab3","BVAB3",750,2.87506,FALSE
+"K",2,"bvab3","BVAB3",750,2.87506,FALSE
+"K",3,"bvab3","BVAB3",750,2.87506,FALSE
+"K",4,"bvab3","BVAB3",750,2.87506,FALSE
+"K",5,"bvab3","BVAB3",750,2.87506,FALSE
+"K",6,"bvab3","BVAB3",750,2.87506,FALSE
+"K",7,"bvab3","BVAB3",750,2.87506,FALSE
+"K",0,"atop","A. vaginae",7.51e+07,7.87564,TRUE
+"K",1,"atop","A. vaginae",78200,4.89321,TRUE
+"K",2,"atop","A. vaginae",36700,4.56467,TRUE
+"K",3,"atop","A. vaginae",14800,4.17026,TRUE
+"K",4,"atop","A. vaginae",2990,3.47567,TRUE
+"K",5,"atop","A. vaginae",1910,3.28103,TRUE
+"K",6,"atop","A. vaginae",1070,3.02938,TRUE
+"K",7,"atop","A. vaginae",750,2.87506,FALSE
+"K",0,"mc","Mobiluncus",401,2.60314,TRUE
+"K",1,"mc","Mobiluncus",375,2.57403,FALSE
+"K",2,"mc","Mobiluncus",375,2.57403,FALSE
+"K",3,"mc","Mobiluncus",375,2.57403,FALSE
+"K",4,"mc","Mobiluncus",375,2.57403,FALSE
+"K",5,"mc","Mobiluncus",375,2.57403,FALSE
+"K",6,"mc","Mobiluncus",3563,3.55182,TRUE
+"K",7,"mc","Mobiluncus",375,2.57403,FALSE
+"K",0,"ls","Leptotrichia/Sneathia",1.99e+08,8.29885,TRUE
+"K",1,"ls","Leptotrichia/Sneathia",1.81e+06,6.25768,TRUE
+"K",2,"ls","Leptotrichia/Sneathia",575000,5.75967,TRUE
+"K",3,"ls","Leptotrichia/Sneathia",75200,4.87622,TRUE
+"K",4,"ls","Leptotrichia/Sneathia",21100,4.32428,TRUE
+"K",5,"ls","Leptotrichia/Sneathia",13600,4.13354,TRUE
+"K",6,"ls","Leptotrichia/Sneathia",6950,3.84198,TRUE
+"K",7,"ls","Leptotrichia/Sneathia",1970,3.29447,TRUE
+"K",0,"mega","Megasphaera",3.41757e+06,6.53372,TRUE
+"K",1,"mega","Megasphaera",96822,4.98597,TRUE
+"K",2,"mega","Megasphaera",21667.5,4.33581,TRUE
+"K",3,"mega","Megasphaera",7992,3.90266,TRUE
+"K",4,"mega","Megasphaera",1960.5,3.29237,TRUE
+"K",5,"mega","Megasphaera",750,2.87506,FALSE
+"K",6,"mega","Megasphaera",750,2.87506,FALSE
+"K",7,"mega","Megasphaera",750,2.87506,FALSE
+"K",0,"total","Total Bacteria",9.56043e+08,8.98048,TRUE
+"K",1,"total","Total Bacteria",9.81355e+06,6.99183,TRUE
+"K",2,"total","Total Bacteria",4.46514e+06,6.64984,TRUE
+"K",3,"total","Total Bacteria",456317,5.65927,TRUE
+"K",4,"total","Total Bacteria",765126,5.88373,TRUE
+"K",5,"total","Total Bacteria",460765,5.66348,TRUE
+"K",6,"total","Total Bacteria",690083,5.8389,TRUE
+"K",7,"total","Total Bacteria",4.69194e+06,6.67135,TRUE
