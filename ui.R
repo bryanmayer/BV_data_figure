@@ -1,10 +1,9 @@
 library(shiny)
 library(readr)
 
-bv_data = readr::read_csv("BVanalysis_data.csv")
+bv_data = read_csv("BVanalysis_data.csv")
 bv_bacteria_list = c("gvag", "bvab1", "bvab2", "bvab3", "atop", "mc", "ls",  "mega")
 bv_only = subset(bv_data, bacteria %in% bv_bacteria_list)
-bv_data$log_count2 = ifelse(bv_data$detected, bv_data$log_count, 0)
 
 ui <- fluidPage(
   titlePanel("Time series of BV-associated bacteria during BV treatment"),
@@ -22,5 +21,3 @@ ui <- fluidPage(
     )
   )
 )
-
-shinyapps::deployApp("~/Dropbox/Antibiotic Paper/BV_data_figure/", appName = "BV-time-series")
